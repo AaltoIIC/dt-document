@@ -9,7 +9,7 @@ The examples folder contains an example document ``crane-public.yaml`` following
 ## An example of a DT document's content
 
 ```
-version: "0.1.2"
+version: "1.0"
 privacy: "public"
 id: "http://lampthing.fi/lamp-L98765"
 name: "Lamp in the fridge"
