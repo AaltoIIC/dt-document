@@ -1,0 +1,15 @@
+version: "0.0.1"
+privacy: "group-1"
+id: "http://d-t.fi/ilmatar-K16052"
+contact:
+  name: "Ilmatar"
+  email: "example@aalto.fi"
+location: 
+  streetAddress: "Puumiehenkuja 5 E, 02150 Espoo"
+  gpsCoordinates: "60.1870° N, 24.8296° E"
+features:
+  - name: "Sensor reading"
+    requirement: "Contact John Doe john.doe@aalto.fi for access."
+  - name: "OPC UA"
+    address: "192.168.151.1"
+    requirement: "Access to Ilmatar local network, password from john.doe@aalto.fi"

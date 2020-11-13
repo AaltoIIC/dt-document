@@ -1,0 +1,10 @@
+version: "0.0.1"
+privacy: "private"
+id: "http://d-t.fi/ilmatar-K16052"
+features:
+  - name: "OPC UA"
+    requirement: "Wifi password: verysecret"
+  - name: "SAP"
+    description: "MindSphere stores historical data of the crane"
+    address: "https://sap-hana.aalto.fi/assets/ilmatar-crane"
+    requirement: "Contact John Doe john.doe@aalto.fi for access."
