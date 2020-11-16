@@ -15,8 +15,8 @@
 | modifiedHuman  | -- | The modification date of the digital twin document (human-readable)| optional | string |
 | owner  | -- | Owner of the physcial asset | optional |  |
 | contact  | | The contact person of the digital twin | optional | string |
-| contact  | name | The contact person of the digital twin | optional | string |
-| contact  | email | The contact person of the digital twin | optional | string |
+|   | name | The contact person of the digital twin | optional | string |
+|   | email | The contact person of the digital twin | optional | string |
 | location  | <p>streetAddress*<br>gpsCoordinates*</p> | Location of the physcial asset | optional | string |
 | manufacturer  | -- | The manufacturer of the physical twin | optional | string |
 | apiGatewayAddress  | -- | Address of the API gateway of the Data Link | optional | string |
