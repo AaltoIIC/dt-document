@@ -13,8 +13,10 @@
 | createdHuman  | -- | The creation date of the digital twin document (human-readable)| mandatory | string |
 | modifiedMachine  | -- | The modification date of the digital twin document (machine-readable) | optional | string |
 | modifiedHuman  | -- | The modification date of the digital twin document (human-readable)| optional | string |
-| owner  | -- | Owner of the physcial asset | optional | string |
-| contact  | <p>name*<br>email*</p> | The contact person of the digital twin | optional | string |
+| owner  | -- | Owner of the physcial asset | optional |  |
+| contact  | | The contact person of the digital twin | optional | string |
+| contact  | name | The contact person of the digital twin | optional | string |
+| contact  | email | The contact person of the digital twin | optional | string |
 | location  | <p>streetAddress*<br>gpsCoordinates*</p> | Location of the physcial asset | optional | string |
 | manufacturer  | -- | The manufacturer of the physical twin | optional | string |
 | apiGatewayAddress  | -- | Address of the API gateway of the Data Link | optional | string |
@@ -31,8 +33,8 @@
 | ------------- | ------------- | ------------- | ------------- |
 | streetAddress | The street address of the location | mandatory | string |
 | gpsCoordinates | The gps coordinates of the location | mandatory | string |
-| name | The name of the contect person | mandatory | string |
-| email | The email of the contect person | mandatory | string |
+| name | The name of the contact person | mandatory | string |
+| email | The email of the contact person | mandatory | string |
 | relationType | The relation type between the digital twins -> options: "parent", "sibling", "child" | mandatory | string |
 | id | The id of the other digital twin | mandatory | string |
 
