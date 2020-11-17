@@ -21,7 +21,7 @@ features:
     address: "https://example.sensor.fi/sensors/browse"
     apiAddress: "https://digi.kaksonen.fi/api/v1.0/"
     requirement: "User account is needed."
-    documentation: "https://github.com/AaltoIIC/sensor-management-system/blob/master/README.md"
+    documentation: "https://github.com/AaltoIIC/OSEMA/blob/master/Documentation.md"
     keywords:
       - "sensor"
       - "management"
