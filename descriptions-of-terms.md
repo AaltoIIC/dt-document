@@ -35,5 +35,5 @@
 |   | custom** | A custom field that can be added to describe the feature | optional | string |
 
 <br>
-* mandatory subterm
+* mandatory subterm <br>
 ** any key-value pair is allowed
