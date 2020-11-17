@@ -32,10 +32,10 @@ features:
 
 | Term | Subterms | Description | Assignment | Type |
 | ------------- | ------------- | ------------- | ------------- | ------------- |
-| version  | -- | The version of the digital twin document | mandatory | string |
-| privacy  | -- | The privacy of the digital twin | mandatory | string |
-| id  | -- | The digital twin id | mandatory | string |
-| name  | -- | Name of the digital twin | mandatory | string |
-| description  | -- | The description of the feature | mandatory | string |
-| createdMachine  | -- | The creation date of the digital twin document (machine-readable) | mandatory | string |
-| createdHuman  | -- | The creation date of the digital twin document (human-readable)| mandatory | string |
+| version  |  | The version of the digital twin document | mandatory | string |
+| privacy  |  | The privacy of the digital twin | mandatory | string |
+| id  |  | The digital twin id | mandatory | string |
+| name  |  | Name of the digital twin | mandatory | string |
+| description  |  | The description of the feature | mandatory | string |
+| createdMachine  |  | The creation date of the digital twin document (machine-readable) | mandatory | string |
+| createdHuman  |  | The creation date of the digital twin document (human-readable)| mandatory | string |
