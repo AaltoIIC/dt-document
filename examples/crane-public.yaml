@@ -30,7 +30,7 @@ features:
       - "data"
   - name: "MindSphere"
     description: "MindSphere stores historical data of the crane"
-    address: "https://crane-fleetmanager.eu1.mindsphere.io/
+    address: "https://crane-fleetmanager.eu1.mindsphere.io/"
     requirement: "User account for the aiicd1 tenant is required."
     documentation: "http://mindsphere.io"
     keywords:
