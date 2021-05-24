@@ -1,6 +1,7 @@
 # Digital Twin document
 
 This repository contains version 1.0 of a Digital Twin (DT) document standard. The DT document describes the metadata and features of a single digital twin. The document is designed to be used along with a Data Link that connects the features of the digital twin behind a single access point.
+Further details available in IEEE Access article [Data Link for the Creation of Digital Twins](https://doi.org/10.1109/ACCESS.2020.3045856).
 
 The format of the document is YAML and ``descriptions-of-terms.md`` describes fields of the DT document. The description contains both mandatory and optional fields.
 
