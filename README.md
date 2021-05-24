@@ -23,8 +23,9 @@ features:
     address: "https://lamptwin.fi/sensors/browse"
     requirement: "User account is needed."
     keywords:
-      - "sensor"
       - "sensors"
+      - "measurement"
+      - "temperature"
       - "management"
 ```
 
