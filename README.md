@@ -37,6 +37,6 @@ features:
 | privacy  |  | The privacy of the digital twin | mandatory | string |
 | id  |  | The digital twin id | mandatory | string |
 | name  |  | Name of the digital twin | mandatory | string |
-| description  |  | The description of the feature | mandatory | string |
+| description  |  | The description of the digital twin | mandatory | string |
 | createdMachine  |  | The creation date of the digital twin document (machine-readable) | mandatory | string |
 | createdHuman  |  | The creation date of the digital twin document (human-readable)| mandatory | string |
