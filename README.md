@@ -12,7 +12,7 @@ The examples folder contains an example document ``crane-public.yaml`` following
 ```
 version: "0.1"
 privacy: "public"
-id: "http://lampthing.fi/lamp-L98765"
+dt-id: "http://lampthing.fi/lamp-L98765"
 name: "Lamp in the fridge"
 description: "Lamp installed in the fridge used to light up the refrigerator."
 createdMachine: "1583195640"
