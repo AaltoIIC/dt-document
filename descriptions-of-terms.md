@@ -6,7 +6,7 @@
 | ------------- | ------------- | ------------- | ------------- | ------------- |
 | version  |  | The version of the digital twin document | mandatory | string |
 | privacy  |  | The privacy of the digital twin | mandatory | string |
-| id  |  | The digital twin id | mandatory | string |
+| dt-id  |  | The digital twin id | mandatory | string |
 | name  |  | Name of the digital twin | mandatory | string |
 | description  |  | The description of the document | mandatory | string |
 | createdMachine  |  | The creation date of the digital twin document (machine-readable) | mandatory | string |
