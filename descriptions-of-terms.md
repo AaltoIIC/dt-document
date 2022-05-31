@@ -14,6 +14,7 @@
 | modifiedMachine  |  | The modification date of the digital twin document (machine-readable) | optional | string |
 | modifiedHuman  |  | The modification date of the digital twin document (human-readable)| optional | string |
 | owner  |  | Owner of the physcial asset | optional |  |
+| type |  | Field that tells what the object is used for | optional | string |
 | contact  |  | The contact person of the digital twin | optional | string |
 |   | name* | The name of the contact person | mandatory | string |
 |   | email* | The email of the contact person | mandatory | string |
@@ -22,6 +23,7 @@
 |   | gpsCoordinates* | The gps coordinates of the location | mandatory | string |
 | manufacturer  |  | The manufacturer of the physical twin | optional | string |
 | apiGatewayAddress  |  | Address of the API gateway of the Data Link | optional | string |
+| functions |  | A list of paths with parameters for API Gateway| optional | list |
 | relations  |  | Relations to other digital twins | optional | string |
 |   | id* | The id of the other digital twin | mandatory | string |
 |   | relationType* | The relation type between the digital twins -> options: "parent", "sibling", "child" | mandatory | string |
